@@ -19,6 +19,7 @@ The **Service Novigrad app** was designed to simplify public service access for 
 
 ## 📐 UML Diagrams
 As part of the project, we developed **UML class diagrams** up to Deliverable 3 to model system structure and relationships.  
+<img width="1535" height="1046" alt="image" src="https://github.com/user-attachments/assets/b0e709b0-2ef9-452b-8cc4-f177f1998094" />
 
 ---
 
